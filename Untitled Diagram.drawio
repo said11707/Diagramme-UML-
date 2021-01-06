@@ -1,1 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2021-01-06T10:39:15.443Z" agent="5.0 (Windows)" etag="jDZG3_7rSgFKpp8RGo4d" version="14.1.8" type="github"><diagram id="nZvlx9XGNHBedg-SJBJo" name="Page-1">jZLBToQwEIafhuMmQFlZryC7XtQDJsZjpSNt0lIsRcCnt9h2gRCTvTQz30xnpv80QLkYLwq39EkS4EEckjFAD0Ecp6fInDOYLEiSxIJaMWJRtICS/YCDoaM9I9BtErWUXLN2CyvZNFDpDcNKyWGb9in5tmuLa9iBssJ8T98Y0dTSU5wu/BFYTX3n6O7eRgT2ye4lHcVEDiuEigDlSkptLTHmwGftvC723vmf6HUwBY2+5YIoXg9f3Tl8yd67rn3uMhZ9HFyVb8x792A3rJ68Akr2DYG5SBigbKBMQ9niao4OZuWGUS248SJj7ofyHUBpGFfIDXkBKUCryaT46NEJ5n+Mc4dF/mPqGF1Jj7zQ2K28vpZeVDGGE8a7ywL+YqtfjIpf</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-06T10:56:46.327Z" agent="5.0 (Windows)" etag="Jck9JUM9reHvrKBONxQH" version="14.1.8" type="github">
+  <diagram id="nZvlx9XGNHBedg-SJBJo" name="Page-1">
+    <mxGraphModel dx="781" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-KEvSBrfhPXXnUt3q98G-3" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="240" y="82.5" width="562.5" height="477.5" as="geometry" />
+        </mxCell>
+        <mxCell id="-KEvSBrfhPXXnUt3q98G-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-KEvSBrfhPXXnUt3q98G-4" target="-KEvSBrfhPXXnUt3q98G-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="245" y="240" />
+              <mxPoint x="245" y="125" />
+              <mxPoint x="523" y="125" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-KEvSBrfhPXXnUt3q98G-4" value="&lt;div&gt;Agent de &lt;br&gt;&lt;/div&gt;&lt;div&gt;voyage&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="200" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-KEvSBrfhPXXnUt3q98G-5" value="&lt;div&gt;Réserver une chambre&lt;/div&gt;&lt;div&gt;D’hôtel &lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425.25" y="210" width="196" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-KEvSBrfhPXXnUt3q98G-7" value="Réserver un taxi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425.25" y="460" width="196" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-KEvSBrfhPXXnUt3q98G-8" value="Réserver un billet de train" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425.25" y="340" width="196" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-KEvSBrfhPXXnUt3q98G-9" value="&lt;div&gt;Organiser un voyage&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425.25" y="82.5" width="196" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-KEvSBrfhPXXnUt3q98G-16" value="" style="endArrow=classic;html=1;" edge="1" parent="1" target="-KEvSBrfhPXXnUt3q98G-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="280" as="sourcePoint" />
+            <mxPoint x="250" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="290" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-KEvSBrfhPXXnUt3q98G-18" value="" style="endArrow=classic;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.075;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-KEvSBrfhPXXnUt3q98G-4" target="-KEvSBrfhPXXnUt3q98G-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="530" as="sourcePoint" />
+            <mxPoint x="380" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-KEvSBrfhPXXnUt3q98G-19" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="160" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-KEvSBrfhPXXnUt3q98G-20" value="Agence de voyage " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="421.25" y="50" width="200" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
