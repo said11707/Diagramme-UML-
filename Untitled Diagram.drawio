@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-06T13:32:13.661Z" agent="5.0 (Windows)" etag="TQ3sWyXYvhfkv-qYjPPF" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-06T13:33:52.565Z" agent="5.0 (Windows)" etag="LVP6GaaLMdgraYg3Ylsv" version="14.1.8" type="github">
   <diagram id="nZvlx9XGNHBedg-SJBJo" name="Page-1">
     <mxGraphModel dx="781" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -23,10 +23,10 @@
         <mxCell id="-KEvSBrfhPXXnUt3q98G-5" value="&lt;div&gt;Réserver une chambre&lt;/div&gt;&lt;div&gt;D’hôtel &lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="425.25" y="210" width="196" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="-KEvSBrfhPXXnUt3q98G-7" value="Réserver un taxi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-KEvSBrfhPXXnUt3q98G-7" value="Réserver un billet de train" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="425.25" y="460" width="196" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="-KEvSBrfhPXXnUt3q98G-8" value="Réserver un billet de train" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-KEvSBrfhPXXnUt3q98G-8" value="Réserver un taxi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="425.25" y="340" width="196" height="90" as="geometry" />
         </mxCell>
         <mxCell id="-KEvSBrfhPXXnUt3q98G-9" value="&lt;div&gt;Organiser un voyage&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -71,7 +71,7 @@
           <mxGeometry x="650" y="100" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-KEvSBrfhPXXnUt3q98G-46" value="include" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="700" y="320" width="40" height="20" as="geometry" />
+          <mxGeometry x="700" y="300" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
